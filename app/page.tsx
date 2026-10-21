@@ -2,9 +2,9 @@
 
 export default function BeybladeEventPage() {
   const prizes = [
-    { code: "UX-15", name: "UX-15 稀有陀螺" },
-    { code: "CX-11", name: "CX-11 戰鬥陀螺" },
-    { code: "BX-48-02", name: "BX-48-02 限定套件" },
+    { code: "UX-15", name: "UX-15 鮫殺狂鱗套組" },
+    { code: "CX-11", name: "CX-11 帝王威能套組" },
+    { code: "BX-48-02", name: "BX-48-02隨機加強包確認款 " },
   ];
 
   return (
@@ -17,7 +17,7 @@ export default function BeybladeEventPage() {
             🏆 古今中外童玩 戰鬥陀螺爭霸賽
           </span>
           <h1 className="text-4xl sm:text-5xl font-black text-stone-900 tracking-tight">
-            戰鬥陀螺 X 交流爭霸賽
+            古今中外童玩X 萬聖節陀螺爭霸賽
           </h1>
           <p className="text-stone-500 mt-3 text-lg font-medium">
             熱血對決・公平競技・爭奪豪華獎品池
@@ -31,7 +31,7 @@ export default function BeybladeEventPage() {
               <span className="text-3xl">📅</span>
               <div>
                 <p className="text-xs text-stone-400 font-bold">比賽日期</p>
-                <p className="text-xl font-black text-[#009944]">10 月 31 日</p>
+                <p className="text-xl font-black text-[#009944]">10 月 31日ㄅ17：30檢錄18：00準時開賽</p>
               </div>
             </div>
 
@@ -39,7 +39,7 @@ export default function BeybladeEventPage() {
               <span className="text-3xl">👦</span>
               <div>
                 <p className="text-xs text-stone-400 font-bold">參賽資格</p>
-                <p className="text-xl font-black text-amber-600">16 歲以下限定</p>
+                <p className="text-xl font-black text-amber-600">16 歲含以下限定</p>
               </div>
             </div>
           </div>
