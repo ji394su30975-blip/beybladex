@@ -132,7 +132,7 @@ export default function BeybladeEventPage() {
             rel="noopener noreferrer"
             className="w-full sm:w-auto inline-block bg-[#009944] text-white px-10 py-5 rounded-2xl font-bold text-xl shadow-lg hover:bg-[#007a37] transition-all transform active:scale-95"
           >
-            前往預約報名（額滿截止）
+            （額滿截止）
           </a>
           <p className="text-xs text-stone-400 mt-4">名額有限，16 人成賽，上限 24 人額滿為止</p>
         </div>
