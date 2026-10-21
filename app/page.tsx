@@ -31,7 +31,7 @@ export default function BeybladeEventPage() {
               <span className="text-3xl">📅</span>
               <div>
                 <p className="text-xs text-stone-400 font-bold">比賽日期</p>
-                <p className="text-xl font-black text-[#009944]">10 月 31日ㄅ17：30檢錄18：00準時開賽</p>
+                <p className="text-xl font-black text-[#009944]">10 月 31日17：30檢錄18：00準時開賽</p>
               </div>
             </div>
 
